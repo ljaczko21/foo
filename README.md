@@ -1,5 +1,8 @@
 # How to use Lily's React App
 
+## Getting started
+Make sure you have Node and NPM installed!
+
 ## Installing a new package
 Change into the foo directory and run
 ```
