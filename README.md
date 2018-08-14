@@ -3,13 +3,6 @@
 ## Getting started
 Make sure you have Node and NPM installed!
 
-## Installing a new package
-Change into the foo directory and run
-```
-npm install my-cool-package
-```
-Usually, the instructions will say `npm install my-cool-package` but just replace `npm install` with `yarn add`.
-
 ## Starting the application
 Change into the foo directory and run
 ```
@@ -17,6 +10,13 @@ npm run start
 ```
 Then, go into Chrome and open http://localhost:3000
 
+## Installing a new package
+Change into the foo directory and run
+```
+npm install my-cool-package
+```
+
+Usually, the instructions will say `npm install my-cool-package` but just replace `npm install` with `yarn add`.
 ## Looking for error messages
 Look in the terminal tab where you ran `npm run start` or have `View -> Developer -> JavaScript Console` open in Chrome while you run the app.
 
