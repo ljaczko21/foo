@@ -20,6 +20,7 @@ class App extends Component {
         </header>
       <div>
         <h1>Hello, Lily. Add things here in App.js!</h1>
+        <h2>HIII</h2>
         <Button onClick={() => this.setState({ myFavNumber: this.state.myFavNumber+1})}>
           My Fav # is {this.state.myFavNumber}
         </Button>
